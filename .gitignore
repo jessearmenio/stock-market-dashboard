@@ -1,0 +1,11 @@
+.env
+node_modules/
+app.js
+scanner.html
+scanner.js
+.DS_Store
+options.html
+dash-perplexity.html
+mood.html
+app-perplexity.js
+dash.html
